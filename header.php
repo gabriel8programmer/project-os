@@ -1,7 +1,7 @@
 
 <header>
     <div id="logo">
-        Logo
+        <a href="./index.php">Logo</a>
     </div>
     <nav>
         <a href="./index.php">Home</a>
