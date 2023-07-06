@@ -1,0 +1,18 @@
+
+main {
+    width: 80%;
+    margin: 30px auto;
+    flex:1;
+
+    h1 {
+        font-size: 2rem;
+        color: $color-main-title;
+        margin-bottom: 20px;
+    }
+
+    p {
+        color: #333;
+        font-size: 1.5rem;
+        letter-spacing: 100%;
+    }
+}
